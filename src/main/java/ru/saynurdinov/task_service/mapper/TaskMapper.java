@@ -1,7 +1,6 @@
 package ru.saynurdinov.task_service.mapper;
 
 import org.mapstruct.Mapper;
-import org.mapstruct.factory.Mappers;
 import ru.saynurdinov.task_service.dto.TaskDTO;
 import ru.saynurdinov.task_service.entity.Task;
 
